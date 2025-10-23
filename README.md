@@ -1,1 +1,1 @@
-![alt text](https://github.com/FelipePalagio/chamasdeguerra/logo.png "Logo Title Text 1")
+![alt text](https://github.com/FelipePalagio/chamasdeguerra/logo.png)
