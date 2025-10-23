@@ -1,1 +1,1 @@
-![alt text](https://github.com/FelipePalagio/chamasdeguerra/logo.png)
+![alt text](logo.png)
